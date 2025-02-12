@@ -7,8 +7,9 @@
   >
     <div class="container mx-auto px-6 py-4 flex justify-between items-center">
       <!-- Logo -->
-      <div class="text-2xl font-bold text-blue-600">
+      <div class="flex items-center">
         <img src="/logo.png" alt="Logo" class="h-8 w-auto mr-2" />
+        <span class="text-lg font-bold text-gray-800 dark:text-white">Your Brand</span>
       </div>
 
       <!-- Navigation Links -->
