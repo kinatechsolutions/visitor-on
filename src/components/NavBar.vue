@@ -1,11 +1,11 @@
 <template>
   <nav
     :class="[
-      'fixed top-0 left-0 w-full z-50 transition-all duration-300',
-      isSticky ? 'bg-white bg-opacity-90 shadow-md' : 'bg-transparent',
+      'fixed top-0 left-0 w-full z-50 transition-all duration-300  bg-white text-black',
+      isSticky ? 'bg-white bg-opacity-90 shadow-md' : 'bg-transparent bg-opacity-90',
     ]"
   >
-    <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+    <div class="container mx-auto px-6 py-4 flex justify-between items-center k">
       <!-- Logo -->
       <div class="flex items-center">
         <img src="/logo.png" alt="Logo" class="h-8 w-auto mr-2" />

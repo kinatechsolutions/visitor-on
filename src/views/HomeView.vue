@@ -2,64 +2,7 @@
   <div class="min-h-screen w-full">
     <NavBar />
 
-    <!-- Jumbotron -->
-    <section class="h-screen flex items-center justify-center bg-primary text-white">
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto items-center">
-        <!-- Left Side -->
-        <div class="space-y-6">
-          <h1 class="text-5xl font-bold">Welcome to Our Platform</h1>
-          <p class="text-xl">Innovative solutions for your business</p>
-          <p class="text-lg text-gray-200"
-            >We provide cutting-edge tools to help you streamline your workflow and maximize
-            productivity.</p
-          >
-          <button
-            class="px-6 py-3 bg-white text-primary font-semibold rounded-lg shadow-lg hover:bg-gray-100"
-            >Get Started
-          </button>
-        </div>
-        <!-- Right Side -->
-        <div>
-          <img src="/hero-image.svg" alt="Landing Illustration" class="w-full h-auto" />
-        </div>
-      </div>
-    </section>
-
-    <section class="h-screen flex bg-gradient-to-r from-blue-500 to-indigo-600 text-white">
-      <!-- Left Side Content -->
-      <div class="w-1/2 flex flex-col justify-center items-start px-12">
-        <h1 class="text-5xl font-bold mb-6">Welcome to Our Platform</h1>
-        <h2 class="text-2xl font-medium mb-4">Innovative Solutions for Your Business</h2>
-        <p class="mb-6 text-lg">
-          Discover how we can transform your business with our cutting-edge technology and
-          personalized services.
-        </p>
-        <button
-          class="px-6 py-3 bg-white text-indigo-600 font-semibold rounded-lg shadow-lg hover:bg-gray-100"
-        >
-          Get Started
-        </button>
-      </div>
-
-      <!-- Right Side Image -->
-      <div class="w-1/2">
-        <img src="/hero-image.svg" alt="Platform Overview" class="w-full h-auto" />
-      </div>
-    </section>
-
-    <section
-      class="h-screen flex items-center justify-center bg-gradient-to-r from-blue-500 to-indigo-600 text-white text-center"
-    >
-      <div>
-        <h1 class="text-5xl font-bold">Welcome to Our Platform</h1>
-        <p class="mt-4 text-lg">Innovative solutions for your business</p>
-        <button
-          class="mt-6 px-6 py-3 bg-white text-indigo-600 font-semibold rounded-lg shadow-lg hover:bg-gray-100"
-        >
-          Get Started
-        </button>
-      </div>
-    </section>
+    <Hero />
 
     <!-- Features Section -->
     <section class="py-20 bg-gray-100">
@@ -120,4 +63,5 @@
   import { LightBulbIcon, ChartBarIcon, GlobeAltIcon } from '@heroicons/vue/24/outline';
   import StickyNavbar from '../components/NavBar.vue';
   import NavBar from '../components/NavBar.vue';
+  import Hero from '../components/Hero.vue';
 </script>
