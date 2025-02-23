@@ -34,6 +34,4 @@ export default defineConfig({
       },
     }),
   ],
-
-  base: '/visitor-on/', // Replace with your GitHub repository name
 });
