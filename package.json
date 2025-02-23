@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint \"src/**/*.{js,vue}\"",
-    "lint:fix": "eslint \"src/**/*.{js,vue}\" --fix"
+    "lint:fix": "eslint \"src/**/*.{js,vue}\" --fix",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "@heroicons/vue": "^2.2.0",
@@ -27,6 +28,7 @@
     "eslint-config-prettier": "^10.0.1",
     "eslint-plugin-prettier": "^5.2.3",
     "eslint-plugin-vue": "^9.32.0",
+    "gh-pages": "^6.3.0",
     "globals": "^15.14.0",
     "postcss": "^8.4.35",
     "prettier": "3.5.0",
