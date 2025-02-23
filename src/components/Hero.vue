@@ -6,7 +6,7 @@
         aria-hidden="true"
       >
         <div
-          class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+          class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#009fe3] to-[#3aaa35] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
           style="
             clip-path: polygon(
               74.1% 44.1%,
@@ -34,29 +34,29 @@
           <div
             class="relative rounded-full px-3 py-1 text-sm/6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20"
           >
-            Announcing our next round of funding.
-            <a href="#" class="font-semibold text-indigo-600"
+            Announcing our next update.
+            <a href="#" class="font-semibold text-primary"
               ><span class="absolute inset-0" aria-hidden="true"></span>Read more
               <span aria-hidden="true">&rarr;</span></a
             >
           </div>
         </div>
         <div class="text-center">
-          <h1 class="text-balance text-5xl font-semibold tracking-tight text-gray-900 sm:text-7xl"
-            >Data to enrich your online business</h1
-          >
-          <p class="mt-8 text-pretty text-lg font-medium text-gray-500 sm:text-xl/8"
-            >Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat
-            commodo. Elit sunt amet fugiat veniam occaecat.</p
-          >
+          <h1 class="text-balance text-5xl font-semibold tracking-tight text-gray-900 sm:text-7xl">
+            The Ultimate Visitor Management Solution
+          </h1>
+          <p class="mt-8 text-pretty text-lg font-medium text-gray-500 sm:text-xl/8">
+            Automate visitor arrivals, streamline staff sign-ins, and track visitor purposes
+            effortlessly. customizable for compliance, accuracy, and safety.
+          </p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
             <a
               href="#"
-              class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+              class="rounded-md bg-primary px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-primary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
               >Get started</a
             >
             <a href="#" class="text-sm/6 font-semibold text-gray-900"
-              >Learn more <span aria-hidden="true">→</span></a
+              >Book a Demo <span aria-hidden="true">→</span></a
             >
           </div>
         </div>
@@ -66,7 +66,7 @@
         aria-hidden="true"
       >
         <div
-          class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]"
+          class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#009fe3] to-[#3aaa35] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]"
           style="
             clip-path: polygon(
               74.1% 44.1%,
@@ -95,6 +95,4 @@
 
 <script setup></script>
 
-<style scoped>
-  /* Add custom styles if needed */
-</style>
+<style scoped></style>

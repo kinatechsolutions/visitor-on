@@ -63,37 +63,33 @@
     </div>
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl lg:mx-0">
-        <h2 class="text-5xl font-semibold tracking-tight text-white sm:text-7xl">Work with us</h2>
-        <p class="mt-8 text-pretty text-lg font-medium text-gray-300 sm:text-xl/8"
-          >Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.
-          Elit sunt amet fugiat veniam occaecat fugiat.</p
-        >
+        <h2 class="text-5xl font-semibold tracking-tight text-white sm:text-7xl">
+          Do more with Visitor on platform
+        </h2>
+        <p class="mt-8 text-pretty text-lg font-medium text-gray-300 sm:text-xl/8">
+          Enhance security, efficiency, and compliance with our cutting-edge visitor management
+          solution. We help businesses automate visitor check-ins, streamline staff sign-ins, and
+          track visitor purposes effortlessly—all while ensuring a seamless and professional
+          experience.
+        </p>
       </div>
       <div class="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
-        <div
-          class="grid grid-cols-1 gap-x-8 gap-y-6 text-base/7 font-semibold text-white sm:grid-cols-2 md:flex lg:gap-x-10"
-        >
-          <a href="#">Open roles <span aria-hidden="true">&rarr;</span></a>
-          <a href="#">Internship program <span aria-hidden="true">&rarr;</span></a>
-          <a href="#">Our values <span aria-hidden="true">&rarr;</span></a>
-          <a href="#">Meet our leadership <span aria-hidden="true">&rarr;</span></a>
-        </div>
         <dl class="mt-16 grid grid-cols-1 gap-8 sm:mt-20 sm:grid-cols-2 lg:grid-cols-4">
           <div class="flex flex-col-reverse gap-1">
-            <dt class="text-base/7 text-gray-300">Offices worldwide</dt>
+            <dt class="text-base/7 text-gray-300">Companies</dt>
             <dd class="text-4xl font-semibold tracking-tight text-white">12</dd>
           </div>
           <div class="flex flex-col-reverse gap-1">
-            <dt class="text-base/7 text-gray-300">Full-time colleagues</dt>
+            <dt class="text-base/7 text-gray-300">Workplaces</dt>
             <dd class="text-4xl font-semibold tracking-tight text-white">300+</dd>
           </div>
           <div class="flex flex-col-reverse gap-1">
-            <dt class="text-base/7 text-gray-300">Hours per week</dt>
+            <dt class="text-base/7 text-gray-300">Government agencies</dt>
             <dd class="text-4xl font-semibold tracking-tight text-white">40</dd>
           </div>
           <div class="flex flex-col-reverse gap-1">
-            <dt class="text-base/7 text-gray-300">Paid time off</dt>
-            <dd class="text-4xl font-semibold tracking-tight text-white">Unlimited</dd>
+            <dt class="text-base/7 text-gray-300">Countries</dt>
+            <dd class="text-4xl font-semibold tracking-tight text-white">1</dd>
           </div>
         </dl>
       </div>
