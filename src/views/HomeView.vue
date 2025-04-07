@@ -21,6 +21,8 @@
     <Contact />
 
     <Newsletter />
+
+    <Footer />
   </div>
 </template>
 
@@ -39,4 +41,5 @@
   import Contact from '../components/Contact.vue';
   import Content from '../components/Content.vue';
   import Trustees from '../components/Trustees.vue';
+  import Footer from '../components/Footer.vue';
 </script>
