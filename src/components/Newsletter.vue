@@ -4,12 +4,12 @@
       <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-2">
         <div class="max-w-xl lg:max-w-lg">
           <h2 class="text-4xl font-semibold tracking-tight text-white"
-            >Subscribe to our newsletter</h2
-          >
+            >Stay Updated with VisitorOn’s Newsletter
+          </h2>
           <p class="mt-4 text-lg text-gray-300"
-            >Nostrud amet eu ullamco nisi aute in ad minim nostrud adipisicing velit quis. Duis
-            tempor incididunt dolore.</p
-          >
+            >Subscribe to our weekly newsletter and get the latest insights delivered straight to
+            your inbox!
+          </p>
           <div class="mt-6 flex max-w-md gap-x-4">
             <label for="email-address" class="sr-only">Email address</label>
             <input
@@ -18,12 +18,12 @@
               type="email"
               autocomplete="email"
               required
-              class="min-w-0 flex-auto rounded-md bg-white/5 px-3.5 py-2 text-base text-white outline outline-1 -outline-offset-1 outline-white/10 placeholder:text-gray-500 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-500 sm:text-sm/6"
+              class="min-w-0 flex-auto rounded-md bg-white/5 px-3.5 py-2 text-base text-white outline outline-1 -outline-offset-1 outline-white/10 placeholder:text-gray-500 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-blue-500 sm:text-sm/6"
               placeholder="Enter your email"
             />
             <button
               type="submit"
-              class="flex-none rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500"
+              class="flex-none rounded-md bg-blue-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500"
             >
               Subscribe
             </button>
@@ -50,8 +50,8 @@
             </div>
             <dt class="mt-4 text-base font-semibold text-white">Weekly articles</dt>
             <dd class="mt-2 text-base/7 text-gray-400"
-              >Non laboris consequat cupidatat laborum magna. Eiusmod non irure cupidatat duis
-              commodo amet.
+              >Enjoy exclusive articles every week on visitor management tips, workplace security
+              trends, and how VisitorOn can optimize your operations.
             </dd>
           </div>
           <div class="flex flex-col items-start">
@@ -74,8 +74,8 @@
             </div>
             <dt class="mt-4 text-base font-semibold text-white">No spam</dt>
             <dd class="mt-2 text-base/7 text-gray-400"
-              >Officia excepteur ullamco ut sint duis proident non adipisicing. Voluptate incididunt
-              anim.
+              >just valuable content—we promise to keep your inbox clutter-free and focused on what
+              matters to you
             </dd>
           </div>
         </dl>
@@ -86,7 +86,7 @@
       aria-hidden="true"
     >
       <div
-        class="aspect-[1155/678] w-[72.1875rem] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30"
+        class="aspect-[1155/678] w-[72.1875rem] bg-gradient-to-tr from-[#009fe3] to-[#3aaa35] opacity-30"
         style="
           clip-path: polygon(
             74.1% 44.1%,

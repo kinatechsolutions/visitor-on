@@ -25,11 +25,14 @@
         </svg>
         <div class="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto lg:py-32 lg:text-left">
           <h2 class="text-balance text-3xl font-semibold tracking-tight text-white sm:text-4xl"
-            >Boost your productivity. Start using our app today.</h2
-          >
+            >Streamline Your Visitor Experience with VisitorOn
+          </h2>
           <p class="mt-6 text-pretty text-lg/8 text-gray-300"
-            >Ac euismod vel sit maecenas id pellentesque eu sed consectetur. Malesuada adipiscing
-            sagittis vel nulla.</p
+            >Ready to simplify visitor management? With VisitorOn, you can effortlessly check in
+            guests, enhance security, and create a professional first impression—all from one
+            intuitive app. Say goodbye to paper logs and hello to a seamless, digital solution
+            designed to save time and keep your workplace organized. Get started today and see the
+            difference!</p
           >
           <div class="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
             <a
@@ -45,7 +48,7 @@
         <div class="relative mt-16 h-80 lg:mt-8">
           <img
             class="absolute left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
-            src="https://tailwindui.com/plus-assets/img/component-images/dark-project-app-screenshot.png"
+            src="/dashboard2.png"
             alt="App screenshot"
             width="1824"
             height="1080"

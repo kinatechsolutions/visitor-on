@@ -14,25 +14,15 @@
             <ul class="space-y-4 text-sm font-medium leading-8 text-gray-600 sm:text-sm">
               <li>
                 Tel:
-                <a href="tel:+020-4999999">020-4999999</a>
-                ,
-                <a href="tel:+020-4998000">020-4998000</a>
+                <a href="tel:+000-00000000">000-00000000</a>
               </li>
               <li>
                 Cell:
-                <a href="tel:+254711-099999">0711-099999</a>
+                <a href="tel:+254708-338855">0708-338855</a>
               </li>
               <li>
                 Email:
-                <a href="mailto:callcentre@kra.go.ke">callcentre@kra.go.ke</a>
-              </li>
-              <li>
-                ITAX:
-                <a
-                  href="https://accounts.ecitizen.go.ke/oauth/authorize?client_id=d69963fe5426b672fec7d0a4a14859b0&redirect_uri=https://itax.kra.go.ke/KRA-Portal&response_type=code"
-                >
-                  itax.kra.go.ke
-                </a>
+                <a href="mailto:info@visitoron.com">callcentre@kra.go.ke</a>
               </li>
             </ul>
           </div>
@@ -42,14 +32,22 @@
           class="col-span-12 mt-6 md:mt-0 space-y-4 px-0 sm:col-span-7 sm:space-y-6 md:col-span-4 lg:px-4"
         >
           <div class="space-y-4">
-            <p class="text-sm font-semibold text-itax-500">Get Started</p>
+            <p class="text-sm font-semibold text-itax-500">Company</p>
             <ul class="space-y-4 text-sm font-medium leading-8 text-gray-600 sm:text-sm">
               <li>
-                <a href="/individual">For Individual Citizens and Foreigner</a>
+                <router-link :to="{}">About US</router-link>
               </li>
-              <li><a href="/business">For Business</a></li>
+
               <li>
-                <a href="/">For NGO’s and Non-Profit Organizations</a>
+                <router-link :to="{}">Contacts</router-link>
+              </li>
+
+              <li>
+                <router-link :to="{ name: 'Terms' }">Terms of Service</router-link>
+              </li>
+
+              <li>
+                <router-link :to="{ name: 'Privacy' }">Privacy Policy</router-link>
               </li>
             </ul>
           </div>
@@ -69,7 +67,7 @@
           <span class="inline-block px-1">
             {{ new Date().getFullYear() }}
           </span>
-          Republic of Kenya . All rights reserved.
+          All rights reserved.
         </p>
         <div class="flex items-center gap-8">
           <a

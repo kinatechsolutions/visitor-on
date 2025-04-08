@@ -7,11 +7,14 @@
     </div>
     <div class="mx-auto max-w-2xl text-center">
       <h2 class="text-balance text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl"
-        >Contact sales</h2
-      >
+        >Get in Touch with VisitorOn
+      </h2>
       <p class="mt-2 text-lg/8 text-gray-600"
-        >Aute magna irure deserunt veniam aliqua magna enim voluptate.</p
-      >
+        >Have questions or ready to transform your visitor management experience? Our team is here
+        to help! Reach out to learn more about how VisitorOn can streamline your check-in process,
+        boost security, and elevate your workplace. Contact us today for support, demos, or
+        personalized solutions tailored to your needs.
+      </p>
     </div>
     <form action="#" method="POST" class="mx-auto mt-16 max-w-xl sm:mt-20">
       <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
@@ -25,7 +28,7 @@
               type="text"
               name="first-name"
               autocomplete="given-name"
-              class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"
+              class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-blue-600"
             />
           </div>
         </div>
@@ -39,7 +42,7 @@
               type="text"
               name="last-name"
               autocomplete="family-name"
-              class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"
+              class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-blue-600"
             />
           </div>
         </div>
@@ -51,7 +54,7 @@
               type="text"
               name="company"
               autocomplete="organization"
-              class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"
+              class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-blue-600"
             />
           </div>
         </div>
@@ -63,7 +66,7 @@
               type="email"
               name="email"
               autocomplete="email"
-              class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"
+              class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-blue-600"
             />
           </div>
         </div>
@@ -73,7 +76,7 @@
           >
           <div class="mt-2.5">
             <div
-              class="flex rounded-md bg-white outline outline-1 -outline-offset-1 outline-gray-300 has-[input:focus-within]:outline has-[input:focus-within]:outline-2 has-[input:focus-within]:-outline-offset-2 has-[input:focus-within]:outline-indigo-600"
+              class="flex rounded-md bg-white outline outline-1 -outline-offset-1 outline-gray-300 has-[input:focus-within]:outline has-[input:focus-within]:outline-2 has-[input:focus-within]:-outline-offset-2 has-[input:focus-within]:outline-blue-600"
             >
               <div class="grid shrink-0 grid-cols-1 focus-within:relative">
                 <select
@@ -81,11 +84,9 @@
                   name="country"
                   autocomplete="country"
                   aria-label="Country"
-                  class="col-start-1 row-start-1 w-full appearance-none rounded-md py-2 pl-3.5 pr-7 text-base text-gray-500 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"
+                  class="col-start-1 row-start-1 w-full appearance-none rounded-md py-2 pl-3.5 pr-7 text-base text-gray-500 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-blue-600 sm:text-sm/6"
                 >
-                  <option>US</option>
-                  <option>CA</option>
-                  <option>EU</option>
+                  <option>KE</option>
                 </select>
                 <svg
                   class="pointer-events-none col-start-1 row-start-1 mr-2 size-5 self-center justify-self-end text-gray-500 sm:size-4"
@@ -118,16 +119,16 @@
               id="message"
               name="message"
               rows="4"
-              class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600"
+              class="block w-full rounded-md bg-white px-3.5 py-2 text-base text-gray-900 outline outline-1 -outline-offset-1 outline-gray-300 placeholder:text-gray-400 focus:outline focus:outline-2 focus:-outline-offset-2 focus:outline-blue-600"
             ></textarea>
           </div>
         </div>
         <div class="flex gap-x-4 sm:col-span-2">
           <div class="flex h-6 items-center">
-            <!-- Enabled: "bg-indigo-600", Not Enabled: "bg-gray-200" -->
+            <!-- Enabled: "bg-blue-600", Not Enabled: "bg-gray-200" -->
             <button
               type="button"
-              class="flex w-8 flex-none cursor-pointer rounded-full bg-gray-200 p-px ring-1 ring-inset ring-gray-900/5 transition-colors duration-200 ease-in-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+              class="flex w-8 flex-none cursor-pointer rounded-full bg-gray-200 p-px ring-1 ring-inset ring-gray-900/5 transition-colors duration-200 ease-in-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
               role="switch"
               aria-checked="false"
               aria-labelledby="switch-1-label"
@@ -142,14 +143,16 @@
           </div>
           <label id="switch-1-label" class="text-sm/6 text-gray-600">
             By selecting this, you agree to our
-            <a href="#" class="font-semibold text-indigo-600">privacy&nbsp;policy</a>.
+            <router-link :to="{ name: 'Privacy' }" class="font-semibold text-blue-600"
+              >privacy&nbsp;policy</router-link
+            >.
           </label>
         </div>
       </div>
       <div class="mt-10">
         <button
           type="submit"
-          class="block w-full rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+          class="block w-full rounded-md bg-blue-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
         >
           Let's talk
         </button>
