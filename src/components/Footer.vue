@@ -22,7 +22,7 @@
               </li>
               <li>
                 Email:
-                <a href="mailto:info@visitoron.com">callcentre@kra.go.ke</a>
+                <a href="mailto:info@visitoron.com">info@visitoron.com</a>
               </li>
             </ul>
           </div>
@@ -81,7 +81,7 @@
           </a>
         </div>
         <div class="flex items-center gap-6">
-          <a href="https://twitter.com/KRACorporate">
+          <a href="https://twitter.com">
             <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 25 24">
               <g clip-path="url(#a)">
                 <path
@@ -96,7 +96,7 @@
               </defs>
             </svg>
           </a>
-          <a href="https://www.linkedin.com/company/kracare/">
+          <a href="https://www.linkedin.com/">
             <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 25 24">
               <g clip-path="url(#a)">
                 <path
@@ -111,7 +111,7 @@
               </defs>
             </svg>
           </a>
-          <a href="https://web.facebook.com/KRACare">
+          <a href="https://web.facebook.com">
             <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 25 24">
               <g clip-path="url(#a)">
                 <path
